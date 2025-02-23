@@ -3,6 +3,16 @@ from seleniumbase import BaseCase
 class BadmintonTest(BaseCase):
     url = "https://www.cambridgebadmintonclub.com/"
 
+    def setUp(self):
+        super().setUp()
+        print("TEST STARTING...")
+        # set up actions...
+     
+    def tearDown(self):
+        # tear down actions...
+        print("TEST CLEAN UP...")
+        super(BadmintonTest, self).tearDown()
+        
     def test_home_page(self):
         # comment
         self.open(self.url)

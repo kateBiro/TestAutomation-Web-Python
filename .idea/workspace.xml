@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed154bf3-c677-4268-bdf1-473c3edcf124" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation-Web-Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="ed154bf3-c677-4268-bdf1-473c3edcf124" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for test.BadmintonTest.test_FAQ_page">
+  <component name="RunManager" selected="Python tests.Python tests for test.BadmintonTest">
     <configuration name="Python tests for test.BadmintonTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Automation-Web-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test.BadmintonTest" />
         <item itemvalue="Python tests.Python tests for test.BadmintonTest.test_FAQ_page" />
         <item itemvalue="Python tests.Python tests for test.BadmintonTest.test_home_page" />
-        <item itemvalue="Python tests.Python tests for test.BadmintonTest" />
         <item itemvalue="Python tests.Python tests for test.BadmintonTest.test_about_us_page" />
         <item itemvalue="Python tests.Python tests for test.BadmintonTest.test_registration_page" />
       </list>
@@ -131,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1739634788532</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1740170483564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740170483564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
